@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Just building things.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tylerscheffler@protonmail.com](mailto:tylerscheffler@protonmail.com)
