@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-Just building things.
+Doing things I enjoy and having a good time.
 
 ### Contact me
 
