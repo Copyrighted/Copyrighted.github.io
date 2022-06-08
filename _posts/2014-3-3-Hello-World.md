@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: First Post.  
 ---
 
-First of many posts.
+This is going to be my blog for stuff I'm working on and generally just a chill space for me to voice thoughts.
