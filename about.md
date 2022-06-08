@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-Doing things I enjoy and having a good time.
+Doing what I want.
 
 ### Contact me
 
